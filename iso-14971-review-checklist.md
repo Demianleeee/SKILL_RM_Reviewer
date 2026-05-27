@@ -142,7 +142,7 @@
 - Risk analysis vs IFU: residual risk, warning, contraindication, precautions
 - Risk analysis vs Usability Engineering File: use-related risk, critical task, validation result
 - Risk analysis vs Software documentation: software hazard, alarm, data integrity, cybersecurity, verification
-- Risk analysis vs Clinical/Performance evaluation: benefit-risk rationale and claimed benefits
+- Risk analysis vs Clinical evaluation: benefit-risk rationale and claimed benefits
 - Risk analysis vs PMS/Complaint/CAPA: known issues and updated risk estimates
 
 ## 10. Recommended Finding Categories
@@ -167,5 +167,5 @@ Finding 작성 시 다음 category를 사용하면 좋다.
 - 각 finding은 문서 위치와 연결한다.
 - 문제점만 말하지 말고 심사자가 왜 문제 삼는지 impact를 적는다.
 - Recommendation은 실행 가능하게 쓴다.
-- 정보가 부족하면 "문서상 확인 불가"와 "고객사 확인 필요"를 구분한다.
+- 정보가 부족하면 "문서상 확인 불가"와 "담당자 확인 필요"를 구분한다.
 - 중대한 finding에는 가능한 보완 문구 또는 필요한 evidence 예시를 제공한다.
